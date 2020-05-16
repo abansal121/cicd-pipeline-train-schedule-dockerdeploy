@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@abansal121 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-abansal121
-/
-cicd-pipeline-train-schedule-dockerdeploy
-forked from linuxacademy/cicd-pipeline-train-schedule-dockerdeploy
-0
-01.8k
- Code
- Pull requests 0 Actions
- Projects 0
- Wiki
- Security 0
- Insights
- Settings
-cicd-pipeline-train-schedule-dockerdeploy/Jenkinsfile
-@whboyd whboyd implement wait for feedback before Prod deploy
-b71b9a6 on May 9, 2018
-59 lines (59 sloc)  2.25 KB
-  
 pipeline {
     agent any
     stages {
@@ -88,15 +57,3 @@ pipeline {
         }
     }
 }
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
